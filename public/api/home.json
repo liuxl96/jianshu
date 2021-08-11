@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "data": {
+    "topicList": [{
+      "id":  1,
+      "title": "社会热点",
+      "imgUrl": "https://pic3.zhimg.com/v2-4cd8abb552ab6a7011d97f93920707b5_720w.jpg"
+    },{
+      "id":  2,
+      "title": "手绘",
+      "imgUrl": "https://pic3.zhimg.com/v2-4cd8abb552ab6a7011d97f93920707b5_720w.jpg"
+    }],
+    "articleList": [{
+      "id": 1,
+      "title": "有哪些软件堪称神器，却不为大众所知？",
+      "desc": "一个非常简洁的APP，功能也很简单---作为一个时空胶囊，帮助你保管写给未来的信。这封信邮寄出去后，你不会看到底稿，唯一再看见的方式是：当时间流逝...",
+      "imgUrl": "https://pic2.zhimg.com/50/v2-fa9f8c6f06708f0a89778d72c2d0f63c_720w.jpg?source=1940ef5c"
+    },{
+      "id": 2,
+      "title": "有哪些软件堪称神器，却不为大众所知？",
+      "desc": "一个非常简洁的APP，功能也很简单---作为一个时空胶囊，帮助你保管写给未来的信。这封信邮寄出去后，你不会看到底稿，唯一再看见的方式是：当时间流逝...",
+      "imgUrl": "https://pic2.zhimg.com/50/v2-fa9f8c6f06708f0a89778d72c2d0f63c_720w.jpg?source=1940ef5c"
+    }],
+    "recommendList": [{
+      "id": 1,
+      "imgUrl": "https://pic2.zhimg.com/80/v2-d2eef32f8a448a0d9855bc308478651b_720w.jpg"
+    },{
+      "id": 2,
+      "imgUrl": "http://fe.leozhang2018.me/images/web-tech-employed.jpg"
+    },{
+      "id": 3,
+      "imgUrl": "https://pic2.zhimg.com/80/v2-d2eef32f8a448a0d9855bc308478651b_720w.jpg"
+    },{
+      "id": 4,
+      "imgUrl": "http://fe.leozhang2018.me/images/web-tech-employed.jpg"
+    }]
+  }
+}
